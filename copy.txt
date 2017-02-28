@@ -1,0 +1,9 @@
+https://aviation-in-pairing-expander-svc-dev.run.asv-pr.ice.predix.io/api/v1/help
+https://aviation-in-duty-report-calculator-svc-dev.run.asv-pr.ice.predix.io/api/v1/help
+https://aviation-in-meal-allowance-data-manager-svc-dev.run.asv-pr.ice.predix.io/api/v1/help
+https://aviation-in-meal-expense-calculator-svc-dev.run.asv-pr.ice.predix.io/api/v1/help
+https://aviation-in-airport-operations-data-manager-svc-dev.run.asv-pr.ice.predix.io/api/v1/help
+https://aviation-in-hotel-data-manager-svc-dev.run.asv-pr.ice.predix.io/api/v1/help
+https://aviation-in-transport-data-manager-svc-dev.run.asv-pr.ice.predix.io/api/v1/help
+https://aviation-in-boarded-meal-data-manager-svc-dev.run.asv-pr.ice.predix.io/api/v1/help
+https://aviation-in-pairing-risk-score-calc-svc-dev.run.asv-pr.ice.predix.io/api/v1/help
